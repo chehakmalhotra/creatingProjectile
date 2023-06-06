@@ -1,0 +1,1 @@
+This repository contains a smaller part of a larger project that involves coding a tank game in Java using the LibGDX framework. The code in this repository focuses on the creation of projectiles that the tanks can shoot in the game.
